@@ -1,5 +1,5 @@
 # DK-Kombuchatron
-The _Kombuchatron_ is an experimental Arduino-based monitoring system to monitor Kombucha progress during the home brewing process.
+The _Kombuchatron_ is an experimental Arduino-based monitoring system to monitor [kombucha](https://en.wikipedia.org/wiki/Kombucha) progress during the fermentation process.
 
 ![The Kombuchatron](/images/kombuchatron.jpg)
 ## Features
